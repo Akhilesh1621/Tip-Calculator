@@ -77,7 +77,7 @@ simple  Tip-Calculator built using flutter
 
 ### Built With
 
-This section should list any major frameworks and IDE that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Framework , IDE and add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Flutter](https://flutter.dev)
 * [Vscode](https://code.visualstudio.com)
 <!-- * [Laravel](https://laravel.com) -->
