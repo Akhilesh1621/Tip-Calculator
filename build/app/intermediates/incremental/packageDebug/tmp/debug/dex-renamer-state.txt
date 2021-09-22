@@ -1,0 +1,4 @@
+#Wed Sep 22 13:55:35 IST 2021
+base.0=E\:\\Codeing\\flutter\\tip calculator\\calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
