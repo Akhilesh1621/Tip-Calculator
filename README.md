@@ -1,15 +1,15 @@
 # Tip-Calculator
-simple  Tip-Calculator built using flutter 
+<!-- simple  Tip-Calculator built using flutter  -->
 
 
 
 
 
 
-
+<!-- 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Issues][issues-shield]][issues-url] -->
 
 
 
